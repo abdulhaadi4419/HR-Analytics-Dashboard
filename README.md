@@ -77,12 +77,18 @@
 
 ## 🔎 Key Insights
 
-    📊 High Attrition in Certain Departments – Sales and customer service departments had the highest attrition rates, indicating job-related stress and high workload.
-    📊 Salary Disparities Contribute to Turnover – Employees with lower salaries were more likely to leave, especially in roles where competitors offered better pay.
-    📊 Job Satisfaction & Work-Life Balance are Critical – Employees who rated job satisfaction and work-life balance below 3 (on a scale of 5) had a significantly higher likelihood of       leaving.
-    📊 Younger Employees More Likely to Leave – Employees aged 25-35 showed the highest turnover, suggesting career growth and development opportunities were lacking.
-    📊 Longer Tenure Reduces Attrition – Employees who stayed beyond 5 years had a much lower attrition rate, highlighting the importance of early career engagement.
-    📊 Performance Rating Impact – High performers with low recognition or limited career advancement opportunities were also more likely to leave.
+    📊 High Attrition in Certain Departments – 
+    Sales and customer service departments had the highest attrition rates, indicating job-related stress and high workload.
+    📊 Salary Disparities Contribute to Turnover – 
+    Employees with lower salaries were more likely to leave, especially in roles where competitors offered better pay.
+    📊 Job Satisfaction & Work-Life Balance are Critical – 
+    Employees who rated job satisfaction and work-life balance below 3 (on a scale of 5) had a significantly higher likelihood of leaving.
+    📊 Younger Employees More Likely to Leave – 
+    Employees aged 25-35 showed the highest turnover, suggesting career growth and development opportunities were lacking.
+    📊 Longer Tenure Reduces Attrition – 
+    Employees who stayed beyond 5 years had a much lower attrition rate, highlighting the importance of early career engagement.
+    📊 Performance Rating Impact – 
+    High performers with low recognition or limited career advancement opportunities were also more likely to leave.
 
 ## ⚡ Tools & Technologies Used
 
