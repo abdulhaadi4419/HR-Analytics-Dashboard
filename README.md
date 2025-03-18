@@ -2,11 +2,13 @@
 
 ## 📌 Project Overview
 
-    The HR Analytics Dashboard is designed to help organizations analyze employee attrition patterns and identify key factors influencing employee turnover. This interactive dashboard        provides HR professionals with data-driven insights to improve employee retention strategies and workforce planning.
+    The HR Analytics Dashboard is designed to help organizations analyze employee attrition patterns and identify key factors influencing employee turnover.
+    This interactive dashboard provides HR professionals with data-driven insights to improve employee retention strategies and workforce planning.
 
 ## 🎯 Problem Statement
 
-    Employee attrition is a major challenge for organizations, leading to high recruitment costs, loss of talent, and reduced productivity. The goal of this project is to analyze why employees are leaving and provide actionable insights to minimize turnover.
+    Employee attrition is a major challenge for organizations, leading to high recruitment costs, loss of talent, and reduced productivity. 
+    The goal of this project is to analyze why employees are leaving and provide actionable insights to minimize turnover.
 
 ## 🔍 Objectives
 
@@ -18,7 +20,8 @@
 
 ## 📊 Dataset Details
 
-    The dataset includes employee records with various attributes such as:
+    🔗 Dataset: Download HR Analytics Dataset
+        The dataset includes employee records with various attributes such as:
 
     Employee ID: Unique identifier for each employee.
 
@@ -85,7 +88,8 @@
 
     Power BI: Interactive dashboard creation.
 
-# DataSet
+## Dataset Used
+- <a https://github.com/abdulhaadi4419/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv>Dataset<a/a
 
 
 # Dashboard
