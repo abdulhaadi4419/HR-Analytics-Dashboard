@@ -20,7 +20,8 @@
 
 ## 📊 Dataset Details
 
-    🔗 Dataset: Download HR Analytics Dataset
+    🔗 Dataset: 
+- <a href="https://github.com/abdulhaadi4419/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv">Download HR Analytics Dataset</a>
         The dataset includes employee records with various attributes such as:
 
     Employee ID: Unique identifier for each employee.
@@ -95,7 +96,7 @@
     Power BI: Interactive dashboard creation.
 
 ## Dataset Used
-- <a https://github.com/abdulhaadi4419/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv>Dataset<a/a
+- <a href="https://github.com/abdulhaadi4419/HR-Analytics-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
 
 
 # Dashboard
